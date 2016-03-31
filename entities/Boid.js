@@ -1,6 +1,6 @@
 var BOID_SIZE = 6;
 var BOID_MAX_ROT = 10;
-;
+
 var VIEW_RADIUS = 20 * BOID_SIZE;
 var CROWD_RADIUS = 6 * BOID_SIZE;
 
